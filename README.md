@@ -58,11 +58,4 @@ Kabir Steel Production Limited (Feb 2016 - Oct 2016)
 - Programming Languages: MATLAB, Python, C.
 - Modelling Tools: SolidWorks, AutoCAD, AutoCAD Fusion 360.
 
-<!-- ## Certifications -->
-- Certification name, date earned.
-- Certification name, date earned. -->
-
-<!-- ## Awards and Honors
-- Award/honor name, year received.
-- Award/honor name, year received. -->
 
