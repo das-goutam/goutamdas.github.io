@@ -1,6 +1,6 @@
 # Goutam Das
-[LinkedIn](https://www.linkedin.com/in/goutam-das-1234/)
-[GitHub](https://github.com/goutam-das)
+[LinkedIn](https://www.linkedin.com/in/gdas/)
+[GitHub](https://github.com/das-goutam)
 [Profile Picture](https://url-to-profile-picture.com)
 
 ## Education
