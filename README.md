@@ -44,11 +44,3 @@ PhD Candidate in Electrical Engineering at George Mason University with a resear
 ## Awards and Recognitions
 - **2024:** Student Travel Grants, American Control Conference, Toronto, Canada
 - **Member:** IEEE, Golden Key International Honor Society, SIAM
-
-## References
-- **Dr. Daigo Shishika**
-  - Assistant Professor, Department of Mechanical Engineering, George Mason University
-  - Email: [dshishik@gmu.edu](mailto:dshishik@gmu.edu)
-- **Dr. Michael Dorothy**
-  - Army Research Directorate, DEVCOM, Army Research Laboratory
-  - Email: [michael.r.dorothy.civ@army.mil](mailto:michael.r.dorothy.civ@army.mil)
