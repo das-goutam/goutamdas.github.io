@@ -1,0 +1,24 @@
+# Site settings
+title: Goutam Das
+# description: A brief description of your site
+author: Goutam Das
+email: gdas@gmu.edu
+# baseurl: "" # Leave empty unless your site is in a subdirectory
+# url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+
+# Theme settings
+theme: jekyll-theme-minimal # You can choose any supported theme
+
+# Social links (optional)
+social_links:
+  - name: GitHub
+    url: https://github.com/das-goutam
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/gdas
+  # - name: Twitter
+    # url: https://twitter.com/yourhandle
+
+# Plugins (optional)
+plugins:
+  - jekyll-feed # Adds RSS feed support
+  - jekyll-seo-tag # Enhances SEO
